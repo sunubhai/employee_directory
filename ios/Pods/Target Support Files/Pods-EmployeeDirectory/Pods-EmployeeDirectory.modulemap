@@ -1,0 +1,6 @@
+module Pods_EmployeeDirectory {
+  umbrella header "Pods-EmployeeDirectory-umbrella.h"
+
+  export *
+  module * { export * }
+}

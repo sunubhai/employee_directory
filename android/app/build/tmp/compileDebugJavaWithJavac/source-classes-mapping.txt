@@ -1,0 +1,14 @@
+com/employeedirectory/ReactNativeFlipper.java
+ com.employeedirectory.ReactNativeFlipper
+ com.employeedirectory.ReactNativeFlipper$1
+ com.employeedirectory.ReactNativeFlipper$2
+ com.employeedirectory.ReactNativeFlipper$2$1
+com/employeedirectory/MainActivity.java
+ com.employeedirectory.MainActivity
+com/employeedirectory/MainApplication.java
+ com.employeedirectory.MainApplication
+ com.employeedirectory.MainApplication$1
+com/employeedirectory/BuildConfig.java
+ com.employeedirectory.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
